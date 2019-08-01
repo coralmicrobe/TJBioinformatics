@@ -1,6 +1,9 @@
+![GitHub Logo](\Users\kmmorrow\Documents\Bioinformatics\Github\theme.jpg)
+
 ## Welcome to Microbial Genomics and Bioinformatics
 
-Course Instructor: Dr. Kathy Morrow
+Course Instructor: Kathleen Morrow, Ph.D.
+
 Email: kmmorrow@fcps.edu
 
 You can use the [editor on GitHub](https://github.com/coralmicrobe/TJBioinformatics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
